@@ -14,13 +14,13 @@ We are also including the social sign in plugins so that any user can login with
 
 Project Proposal: https://github.com/pruthvi6767/ASEFall16/blob/master/Project/Proposal/Documentation/ASE%20Project%20Proposal.pdf
 
-Project Increment 1: https://github.com/pruthvi6767/ASEFall16/wiki/Project-Increment-1
+Project Increment 1: https://github.com/cmoulika009/ASE-IM-WORD-Project/wiki/IM-Word-Increment-1
 
-Project Increment 2: https://github.com/pruthvi6767/ASEFall16/wiki/Project-Increment-2
+Project Increment 2: https://github.com/cmoulika009/ASE-IM-WORD-Project/wiki/IM-Word-Increment-2
 
-Project Increment 3: https://github.com/pruthvi6767/ASEFall16/wiki/Project-Increment-3
+Project Increment 3: https://github.com/cmoulika009/ASE-IM-WORD-Project/wiki/IM-Word-Increment-3
 
-Project Increment 4: https://github.com/pruthvi6767/ASEFall16/wiki/Project-Increment-4
+Project Increment 4: https://github.com/cmoulika009/ASE-IM-WORD-Project/wiki/IM-Word-Increment-4
 
 Power Point Presentation: https://www.dropbox.com/s/sl5nubwci5u26se/ASE-IM-WORD-Presentation-Team-7.pptx?dl=0
 
